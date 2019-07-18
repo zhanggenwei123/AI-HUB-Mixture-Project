@@ -1,2 +1,3 @@
-# AI-HUB-YourGroupName-Project
+# AI-HUB-Mixture-Project
 Checking
+Check pull
